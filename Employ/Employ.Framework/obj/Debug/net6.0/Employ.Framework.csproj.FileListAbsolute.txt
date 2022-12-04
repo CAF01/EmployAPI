@@ -1,0 +1,12 @@
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Framework\bin\Debug\net6.0\Employ.Framework.deps.json
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Framework\bin\Debug\net6.0\Employ.Framework.dll
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Framework\bin\Debug\net6.0\Employ.Framework.pdb
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Framework\obj\Debug\net6.0\Employ.Framework.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Framework\obj\Debug\net6.0\Employ.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Framework\obj\Debug\net6.0\Employ.Framework.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Framework\obj\Debug\net6.0\Employ.Framework.AssemblyInfo.cs
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Framework\obj\Debug\net6.0\Employ.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Framework\obj\Debug\net6.0\Employ.Framework.dll
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Framework\obj\Debug\net6.0\refint\Employ.Framework.dll
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Framework\obj\Debug\net6.0\Employ.Framework.pdb
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Framework\obj\Debug\net6.0\ref\Employ.Framework.dll
