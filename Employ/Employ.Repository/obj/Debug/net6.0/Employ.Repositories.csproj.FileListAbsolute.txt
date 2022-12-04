@@ -1,0 +1,12 @@
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Repository\bin\Debug\net6.0\Employ.Repositories.deps.json
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Repository\bin\Debug\net6.0\Employ.Repositories.dll
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Repository\bin\Debug\net6.0\Employ.Repositories.pdb
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Repository\obj\Debug\net6.0\Employ.Repositories.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Repository\obj\Debug\net6.0\Employ.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Repository\obj\Debug\net6.0\Employ.Repositories.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Repository\obj\Debug\net6.0\Employ.Repositories.AssemblyInfo.cs
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Repository\obj\Debug\net6.0\Employ.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Repository\obj\Debug\net6.0\Employ.Repositories.dll
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Repository\obj\Debug\net6.0\refint\Employ.Repositories.dll
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Repository\obj\Debug\net6.0\Employ.Repositories.pdb
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Repository\obj\Debug\net6.0\ref\Employ.Repositories.dll

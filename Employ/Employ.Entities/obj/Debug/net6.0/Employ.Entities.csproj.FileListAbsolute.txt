@@ -1,0 +1,12 @@
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Entities\bin\Debug\net6.0\Employ.Entities.deps.json
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Entities\bin\Debug\net6.0\Employ.Entities.dll
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Entities\bin\Debug\net6.0\Employ.Entities.pdb
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Entities\obj\Debug\net6.0\Employ.Entities.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Entities\obj\Debug\net6.0\Employ.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Entities\obj\Debug\net6.0\Employ.Entities.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Entities\obj\Debug\net6.0\Employ.Entities.AssemblyInfo.cs
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Entities\obj\Debug\net6.0\Employ.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Entities\obj\Debug\net6.0\Employ.Entities.dll
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Entities\obj\Debug\net6.0\refint\Employ.Entities.dll
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Entities\obj\Debug\net6.0\Employ.Entities.pdb
+C:\Users\Chris\Documents\EmployAPI\Employ\Employ.Entities\obj\Debug\net6.0\ref\Employ.Entities.dll
